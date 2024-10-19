@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/PC/Github/EnderSlain456/Windows Activate/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\WindowsActivator.dir\\WindowsActivate.cpp.obj -c \"D:\\PC\\Github\\EnderSlain456\\Windows Activate\\WindowsActivate.cpp\"",
+  "file": "D:/PC/Github/EnderSlain456/Windows Activate/WindowsActivate.cpp",
+  "output": "CMakeFiles/WindowsActivator.dir/WindowsActivate.cpp.obj"
+}
+]
