@@ -1,3 +1,0 @@
-D:/PC/Github/EnderSlain456/Windows Activate/build/CMakeFiles/WindowsActivator.dir
-D:/PC/Github/EnderSlain456/Windows Activate/build/CMakeFiles/edit_cache.dir
-D:/PC/Github/EnderSlain456/Windows Activate/build/CMakeFiles/rebuild_cache.dir
