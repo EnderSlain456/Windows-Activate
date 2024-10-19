@@ -18,6 +18,10 @@ Education N,
 Enterprise,
 Enterprise N
 
+```
+Requires an Internet Connection
+```
+
 # Development
 
 - Buit with Cmake, Coded in C++
